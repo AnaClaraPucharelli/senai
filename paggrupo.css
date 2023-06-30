@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.planos{
+    height: 60vh;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-size: 50px;
+    }
+
+.botaoB{
+    background-color: rgb(225, 0, 225);
+    color: white;
+    font-size: 30px;
+    text-align: center; 
+    border-radius: 10px;
+    
+}
+.center-botaoB{
+    text-align: center;
+}
+
+.topicos{
+    display: flex;
+    font-size: 20px;
+    height: 300px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.planitos{
+    text-align: center;
+}
+
+.botao2{
+   text-align: center;
+}
+
+.lista1{
+    width: 50vw;
+}
+.baixar{
+    width: 25vw;
+    padding: 12%;
+}
